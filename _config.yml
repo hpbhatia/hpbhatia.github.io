@@ -23,7 +23,7 @@ repository               : "hpbhatia/hpbhatia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "linkedin__squared.jpg"
+  avatar           : "linkedin__.jpg"
   name             : "Hargun Bhatia"
   pronouns         : # example: "she/her"  
   bio              : "Math PhD student at UC San Diego"
